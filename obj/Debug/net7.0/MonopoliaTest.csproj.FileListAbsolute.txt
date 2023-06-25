@@ -1,0 +1,15 @@
+E:\GitHub\MonopoliaTest1\bin\Debug\net7.0\MonopoliaTest.exe
+E:\GitHub\MonopoliaTest1\bin\Debug\net7.0\MonopoliaTest.deps.json
+E:\GitHub\MonopoliaTest1\bin\Debug\net7.0\MonopoliaTest.runtimeconfig.json
+E:\GitHub\MonopoliaTest1\bin\Debug\net7.0\MonopoliaTest.dll
+E:\GitHub\MonopoliaTest1\bin\Debug\net7.0\MonopoliaTest.pdb
+E:\GitHub\MonopoliaTest1\obj\Debug\net7.0\MonopoliaTest.csproj.AssemblyReference.cache
+E:\GitHub\MonopoliaTest1\obj\Debug\net7.0\MonopoliaTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\MonopoliaTest1\obj\Debug\net7.0\MonopoliaTest.AssemblyInfoInputs.cache
+E:\GitHub\MonopoliaTest1\obj\Debug\net7.0\MonopoliaTest.AssemblyInfo.cs
+E:\GitHub\MonopoliaTest1\obj\Debug\net7.0\MonopoliaTest.csproj.CoreCompileInputs.cache
+E:\GitHub\MonopoliaTest1\obj\Debug\net7.0\MonopoliaTest.dll
+E:\GitHub\MonopoliaTest1\obj\Debug\net7.0\refint\MonopoliaTest.dll
+E:\GitHub\MonopoliaTest1\obj\Debug\net7.0\MonopoliaTest.pdb
+E:\GitHub\MonopoliaTest1\obj\Debug\net7.0\MonopoliaTest.genruntimeconfig.cache
+E:\GitHub\MonopoliaTest1\obj\Debug\net7.0\ref\MonopoliaTest.dll
