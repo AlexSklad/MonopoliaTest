@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\MonopoliaTest1\\MonopoliaTest.csproj": {}
+    "E:\\GitHub\\MonopoliaTest\\MonopoliaTest.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\MonopoliaTest1\\MonopoliaTest.csproj": {
+    "E:\\GitHub\\MonopoliaTest\\MonopoliaTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\MonopoliaTest1\\MonopoliaTest.csproj",
+        "projectUniqueName": "E:\\GitHub\\MonopoliaTest\\MonopoliaTest.csproj",
         "projectName": "MonopoliaTest",
-        "projectPath": "E:\\GitHub\\MonopoliaTest1\\MonopoliaTest.csproj",
+        "projectPath": "E:\\GitHub\\MonopoliaTest\\MonopoliaTest.csproj",
         "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\MonopoliaTest1\\obj\\",
+        "outputPath": "E:\\GitHub\\MonopoliaTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
